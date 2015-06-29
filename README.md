@@ -284,8 +284,11 @@ Albuquerque International Balloon Fiesta App API
 
 ```
 {
-  "lat": "Latitude",
-  "lon": "Longitude",
+  "category": "Location_Category",
+  "subtitle": "Location_Type",
+  "title": "Location_Category",
+  "lat": "Location_Latitude",
+  "lon": "Location_Longitude",
   "type": "Location_Type",
   "name": "Location_Name",
   "description": "Location_Description"
